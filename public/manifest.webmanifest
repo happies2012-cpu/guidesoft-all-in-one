@@ -1,0 +1,20 @@
+{
+  "name": "GUIDESOFT",
+  "short_name": "GUIDESOFT",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1220",
+  "theme_color": "#0d1220",
+  "icons": [
+    {
+      "src": "https://gsgroupsnet-ten.vercel.app/assets/gslogo-BdL-tM9p.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://gsgroupsnet-ten.vercel.app/assets/gslogo-BdL-tM9p.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
